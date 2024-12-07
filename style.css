@@ -254,7 +254,6 @@ font-size: 25px;
 }
 .body6{
     width: 1360px;
-    height: 1062px;
     margin: auto;
 }
 .tugma4{
@@ -349,7 +348,6 @@ margin-left: 10px;
     display: flex;
     flex-wrap: wrap;
     width: 1360px;
-    height: 574px;
 
 }
 .content3{
@@ -377,4 +375,18 @@ text-decoration: line-through;
 .content4{
     display: flex;
     flex-wrap: wrap;
+}
+.body7{
+    margin: auto;
+    width: 690PX;
+    height: 530px;
+    border: 2px solid black;
+    padding: 40px;
+}
+.tugma4{
+    width: 209px;
+    height: 58px;
+    background-color: #339933;
+    border-radius: 10px;
+    color: white;
 }
